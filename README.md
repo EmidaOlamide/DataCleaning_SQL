@@ -17,3 +17,7 @@ Replaced Y and N in SoldASVacant column with Yes and No respectively to ensure c
 
 ### Deleting bad data
 Deleted columns not needed using Alter table statement
+
+Check out my sql queries and have fun.   
+
+Your feedbacks will be greatly appreciated.  
