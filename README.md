@@ -22,3 +22,7 @@ I did the following cleaning:
 Check out my SQL queries and have fun.   
 
 Your feedback will be greatly appreciated.  
+
+Warm Regards,
+
+**Olamide Emida**
