@@ -19,9 +19,7 @@ I did the following cleaning:
 ### Deleting bad data
 * Deleted columns not needed using Alter table statement
 
-Check out my SQL queries and have fun.   
-
-Your feedback will be greatly appreciated.  
+Check out my SQL queries. Your feedback will be greatly appreciated.  
 
 Warm Regards,
 
